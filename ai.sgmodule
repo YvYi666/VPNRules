@@ -4,4 +4,5 @@
 #!homepage=https://github.com/YvYi666/VPNRules
 
 [Rule]
+DOMAIN,module-proof.yvyi666.test,PROXY
 RULE-SET,https://raw.githubusercontent.com/YvYi666/VPNRules/main/ai.list,PROXY
