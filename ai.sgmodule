@@ -1,0 +1,7 @@
+#!name=AI Rule Set
+#!desc=Route AI traffic through PROXY.
+#!author=YvYi666
+#!homepage=https://github.com/YvYi666/VPNRules
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/YvYi666/VPNRules/main/ai.list,PROXY
